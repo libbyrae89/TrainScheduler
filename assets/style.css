@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: #691010d7; 
+    background-position-y: 10;
+}
+
+.btn-primary {
+    background-color: #800000;
+    border-color: #fff;
+    font-weight: bold;
+}
